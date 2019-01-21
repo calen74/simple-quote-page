@@ -1,0 +1,17 @@
+body {
+    width: 100%;
+    height: auto;
+    background: url('assets/aquascape-diorama.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-size: 100%;
+    line-height: 1.5;
+    
+}
+
+#text {
+    font-family: "Crimson Text", arial;
+}
+
+#name {
+    font-family: arial;
+}
